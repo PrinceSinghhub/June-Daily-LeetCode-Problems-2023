@@ -7,4 +7,5 @@ Profile Link: https://leetcode.com/PrinceSingh1/
 
 
 <br>
-![June Month Streak Complete 30 June 2023 (4)](https://github.com/PrinceSinghhub/June-Daily-LeetCode-Problems-2023/assets/71000042/d9de8edd-71e6-44de-95a4-1173dda554ad)
+
+![June Month Streak Complete 30 June 2023 (4)](https://github.com/PrinceSinghhub/June-Daily-LeetCode-Problems-2023/assets/71000042/b2cc191f-cf93-4aac-855c-84476337a564)
